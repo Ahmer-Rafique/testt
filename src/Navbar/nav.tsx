@@ -7,7 +7,7 @@ const Nav = () => {
       Ahmer Ali
     </div>
     <div className='flex justify-center  items-center w-full'>
-    <ul className='flex space-x-20 font-medium text-lg text-blue-800'>
+    <ul className='flex space-x-20 font-medium text-xl text-blue-800'>
       <li >Home</li>
       <li>About</li>
       <li >Contact</li>
